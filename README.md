@@ -1,3 +1,2 @@
-# hello-world
-my frist repository;
-Maybe I'll install node.js this evening.
+# Soundsimulation
+The code that i've edited during my masterthesis.
